@@ -1,4 +1,4 @@
-FROM openjdk:8u131-jre
+FROM openjdk:10
 
 MAINTAINER Richard Chesterwood "richard@inceptiontraining.co.uk"
 
