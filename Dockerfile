@@ -1,4 +1,4 @@
-FROM openjdk:8u222-jre
+FROM openjdk:8u131-jdk-alpine
 
 MAINTAINER Richard Chesterwood "richard@inceptiontraining.co.uk"
 
